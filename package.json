@@ -1,0 +1,20 @@
+{
+  "name": "carlo-electrojet-default",
+  "version": "1.0.0",
+  "description": "Default Carlo Application for Electrojet CLI",
+  "main": "index.js",
+  "scripts": {
+    "start": "electrojet-carlo start",
+    "build": "electrojet-carlo build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "carlo-electrojet": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@electrojet/carlo": "^0.0.1"
+  }
+}
