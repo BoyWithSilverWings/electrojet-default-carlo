@@ -19,7 +19,7 @@
   "author": "Boy with Silver Wings <agney@outlook.in>",
   "license": "ISC",
   "dependencies": {
-    "@electrojet/carlo": "^0.0.11",
+    "@electrojet/carlo": "^0.0.13",
     "carlo": "^0.9.43"
   },
   "devDependencies": {
